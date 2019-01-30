@@ -1,25 +1,7 @@
-### Waves guitar store
-#### Rest Web Applications developed with JavaScript.
+### Waves
+#### React Web Applications developed with JavaScript.
 
-#### List of technologies:
-- express
-- mongo
-- mongose
-- multer
-- nodemailer
-- cloudinary
-- paypal
-- react
-- redux
-- react-router
-- axios
-- react-dropzone
-- react-moment
-- react-slick
-- redux-promise
 
-#### Admin:
-- email: admin@gmail.com
-- password: admin
 
-**Demo:** [https://react-waves.herokuapp.com/](https://react-waves.herokuapp.com/)
+
+**Demo:** [View Here](https://vast-coast-51743.herokuapp.com/)
